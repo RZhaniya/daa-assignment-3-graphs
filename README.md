@@ -262,7 +262,7 @@ Core checks results and optimum values; Edge cases checks boundaries; Witness ch
 
 The specified algorithms, helper, analysis, own tests and benchmark are required learning work without separate manual points or discretionary deductions. Public tests do not replace the full input requirements or the separate grading process.
 
-The [Assignment 3 defence quiz](https://lms.astanait.edu.kz/mod/quiz/view.php?id=93521) is in English: 20 questions in 20 minutes, with one attempt. There are 10 single-answer multiple-choice questions and 10 numerical questions. Each correct answer earns 1 raw point; an incorrect or blank answer earns 0. The quiz mark is `correct / 20 × 50`, up to 50 points. Course policies, including corrections and academic integrity, follow the syllabus.
+The [Assignment 3 defence quiz](https://lms.astanait.edu.kz/mod/quiz/view.php?id=93521) is in English: 20 questions in 20 minutes, with one attempt. There are 15 single-answer questions and 5 multiple-response questions (select all that apply). Each question is worth 1 raw mark. Single-answer questions earn 1 for the correct choice and 0 otherwise. In multiple-response questions, correct options share +1 mark equally and incorrect options share −1 mark equally; add the selected values, with a minimum score of 0. Blank answers and selecting every option earn 0. The quiz mark is `raw / 20 × 50`, up to 50 points. Course policies, including corrections and academic integrity, follow the syllabus.
 
 ## 11. Academic integrity
 
